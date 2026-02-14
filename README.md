@@ -1,0 +1,78 @@
+# Robbie Williams – Come Undone
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+So unimpressed but so in awe
+Such a saint but such a whore
+So self aware so full of shit
+So indecisive so adamant
+I'm contemplating
+thinking about thinking
+It's overrated just get another
+drink and Watch me come undone
+They're selling razor blades
+and mirrors in the street
+come undone
+I pray that when I'm
+coming down you'll be asleep
+come undone
+If I ever hurt you
+your revenge will be so sweet
+Because I'm scum
+and I'm your son
+I come undone
+I come undone
+So rock and roll
+so corporate suit
+So damn ugly so damn cute
+So well trained so animal
+So need your love
+so fuck you all
+I'm not scared of dying
+I just don't want to
+If Id stop lying
+I'd just disappoint you
+I come undone come undone
+They're selling razor
+blades and mirrors in the street
+come undone
+I pray that when I'm
+coming down you'll be asleep
+come undone
+If I ever hurt you
+your revenge will be so sweet
+Because I'm scum
+and I'm your son
+I come undone
+So write another ballad
+Mix it on a Wednesday
+Sell it on a Thursday
+Buy a yacht by Sunday
+It's a love song
+A love song
+Do another interview
+Sing a bunch of lies
+Tell about celebrities
+that I despise
+And sing love songs
+We sing love songs
+So sincere So sincere
+come undone
+They're selling razor
+blades and mirrors in the street
+come undone
+I pray that when I'm
+coming down you'll be asleep
+come undone
+A young pretender and my
+crowds above can see
+I come undone
+I am scum
+Love your son
+You gotta love your son
+You gotta love your son
+Love your son
+I am scum I am scum I am scum
+I am scum I am scum I am scum
+```
