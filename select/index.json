@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Come Undone",
+  "base_artist": "Robbie Williams",
+  "createdAt": "2026-02-14T16:14:34.458887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/01_Come_Undone_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Undone - Instrumental",
+      "artist": "Trentemøller",
+      "has_synced": false,
+      "path": "select/02_Come_Undone_-_Instrumental_Trentemøller.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/03_Come_Undone_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/04_Come_Undone_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Come Undone",
+      "artist": "Elis",
+      "has_synced": true,
+      "path": "select/05_I_Come_Undone_Elis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Come Undone - Ep Only Track",
+      "artist": "Unisonic",
+      "has_synced": true,
+      "path": "select/06_You_Come_Undone_-_Ep_Only_Track_Unisonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/07_Come_Undone_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/08_Come_Undone_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/09_Come_Undone_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Kittie",
+      "has_synced": true,
+      "path": "select/10_Come_Undone_Kittie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Gun",
+      "has_synced": false,
+      "path": "select/11_Come_Undone_Gun.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "come undone",
+      "artist": "Marika Hackman",
+      "has_synced": true,
+      "path": "select/12_come_undone_Marika_Hackman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Undone - Trentemøller Remix",
+      "artist": "trentemøller feat. KAZU & Blonde Redhead",
+      "has_synced": false,
+      "path": "select/13_Come_Undone_-_Trentemøller_Remix_trentemøller_feat._KAZU_&_Blonde_Redhead.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/14_Come_Undone_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "Bad Omens",
+      "has_synced": true,
+      "path": "select/15_Come_Undone_Bad_Omens.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "My Darkest Days",
+      "has_synced": true,
+      "path": "select/16_Come_Undone_My_Darkest_Days.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come Undone",
+      "artist": "The Used",
+      "has_synced": false,
+      "path": "select/17_Come_Undone_The_Used.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Heartstrings Come Undone",
+      "artist": "Demon Hunter",
+      "has_synced": true,
+      "path": "select/18_My_Heartstrings_Come_Undone_Demon_Hunter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Undone",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Undone_Robbie_Williams.txt"
+    }
+  ]
+}
